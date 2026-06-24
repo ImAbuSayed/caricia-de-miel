@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caricia de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-miel/) |
+| **Get License** | [Music Rights & Licensing for Caricia de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero probar esa caricia de miel
+> Sentir el fuego que me quema la piel
+> Baby, esta noche nos perdemos los dos
+> Con ese movimiento que me deja sin voz
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
