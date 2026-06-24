@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de miel
+
+This log tracks the cryptographic history and versioning for the song **Caricia de miel** (caricia-de-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T12:55:30.012485 | `v1` | `7fb34f2733af5354567f1fa23f6e5138dac1797827cf7f1d304093c3d845080a` | `d626cd9cdc83baec376a71860b21484b767976a7d4f09fb9a4dd508ce939b171` | `2026-06-24_caricia-de-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
